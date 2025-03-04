@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **zyyyad1990@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1XJQYCnWX18UcxRfXmt-T7W637G-h4LHm/edit?usp=sharing&ouid=101834624483163598988&rtpof=true&sd=true](https://docs.google.com/document/d/1XJQYCnWX18UcxRfXmt-T7W637G-h4LHm/edit?usp=sharing&ouid=101834624483163598988&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1XJQYCnWX18UcxRfXmt-T7W637G-h4LHm/edit?usp=sharing&ouid=101834624483163598988&rtpof=true&sd=true]( https://drive.google.com/file/d/195308WorEfmHzmLXtf0n0NRFrhdhN-gI/view?usp=drive_link)
 
 - ⚡ Fun fact **I Like Jokes**
 
