@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ziad</h1>
 
-- 🔭 I’m currently A Research Intern at **Nile University**
+- 🔭 I’m currently A PQC Research Intern at **Nile University**
 
 - 📫 How to reach me **zyyyad1990@gmail.com**
 
