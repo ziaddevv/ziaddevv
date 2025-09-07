@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ziad</h1>
-<h3 align="center">A Software Engineer from Egypt passionate about Open Source</h3>
 
 - 🔭 I’m currently A Research Intern at **Nile University**
 
