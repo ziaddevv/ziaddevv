@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziad</h1>
 
-- 🔭 I’m currently A PQC Research Intern at **Nile University**
-
 - 📫 How to reach me **zyyyad1990@gmail.com**
 
 - 📄 [My CV](https://drive.google.com/file/d/1UgL2TcnB0RnN-vEUFUacksi5ezukqRZL/view?usp=sharing)
