@@ -2,7 +2,7 @@
 
 - 📫 How to reach me **zyyyad1990@gmail.com**
 
-- 📄 [My CV]([https://drive.google.com/file/d/1UgL2TcnB0RnN-vEUFUacksi5ezukqRZL/view?usp=sharing](https://drive.google.com/file/d/1L7jBBs2FST_splAbH4MTJ7NYctTK_z1W/view?usp=sharing))
+- - 📄 [My CV](https://drive.google.com/file/d/1L7jBBs2FST_splAbH4MTJ7NYctTK_z1W/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
